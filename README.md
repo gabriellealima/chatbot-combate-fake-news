@@ -5,3 +5,5 @@ Apresentação do Projeto
 Você pode conferir a apresentação completa do projeto clicando no link abaixo:
 
 🔗 Apresentação no Canva
+
+https://www.canva.com/design/DAGnuOdxo74/PQAbVoyRF6JzYYPnitoh7Q/view?utm_content=DAGnuOdxo74&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdd527a54f2
