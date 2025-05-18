@@ -1,50 +1,63 @@
 🔗 Apresentação no Canva
-
 https://www.canva.com/design/DAGnuOdxo74/PQAbVoyRF6JzYYPnitoh7Q/view?utm_content=DAGnuOdxo74&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdd527a54f2
 
-🤖 Nice Chatbot — Um aliado contra as fake news para o público idoso
-Imersão IA 2025 | Alura + Google Gemini
-Desenvolvido por: Gabrielle de Azevedo Lima
 
-📌 Visão Geral
-O Nice Chatbot foi desenvolvido durante a Imersão IA 2025 (Alura + Google Gemini) com o objetivo de ajudar pessoas idosas a identificarem notícias falsas (fake news), especialmente em ambientes digitais como WhatsApp e Facebook. Inspirado na minha mãe, Nice, este projeto combina Inteligência Artificial, responsabilidade social e princípios de UX/UI acessível para democratizar o acesso à informação segura.
 
-🧠 Motivação
-"Minha mãe, Nice, foi minha maior inspiração. Percebi que ela e outros idosos enfrentam dificuldades reais ao lidar com desinformação — e quis transformar essa dor em solução."
-
-Problema: Idosos são mais propensos a acreditar e compartilhar fake news.
-
-Impacto: Confusão, ansiedade, desinformação em saúde e golpes.
-
-Objetivo: Criar um chatbot acessível, amigável e funcional para combater esse cenário.
-
-👩‍🦳 Persona: Ana
-68 anos | Viúva | Costureira aposentada | Usuária básica de celular
-Ana se informa pela TV e WhatsApp, mas tem dificuldade em validar notícias. Ela precisa de uma ferramenta simples, confiável e acolhedora — como o Nice Chatbot.
-
-✨ Funcionalidades do Chatbot
-✅ Recebe perguntas/notícias via texto
-✅ Analisa veracidade e alerta sobre sinais suspeitos
-✅ Sugere fontes confiáveis (ex: Boatos.org, Lupa, Aos Fatos)
-✅ Usa linguagem simples, tom acolhedor e respostas curtas
-✅ Proporciona contexto sobre a origem da notícia
-
-🧩 Processo de Criação
-🧪 Aula 04: Introdução ao Google AI Studio
-Aprendizado sobre modelos generativos (Gemini)
-
-Criação do prompt inicial com comportamento esperado:
-
-Linguagem simples
-
-Análise crítica com empatia
-
-Sugestão de fontes e contexto
-
-🛠️ Prompt Base Utilizado
-text
+markdown
 Copiar
 Editar
+# 🤖 Nice Chatbot — Um aliado contra as fake news para o público idoso  
+### Imersão IA 2025 | Alura + Google Gemini  
+**Desenvolvido por:** Gabrielle de Azevedo Lima
+
+---
+
+## 📌 Visão Geral
+
+O **Nice Chatbot** foi desenvolvido durante a Imersão IA 2025 (Alura + Google Gemini) com o objetivo de ajudar pessoas idosas a identificarem notícias falsas (fake news), especialmente em ambientes digitais como WhatsApp e Facebook. Inspirado na minha mãe, Nice, este projeto combina **Inteligência Artificial**, **responsabilidade social** e princípios de **UX/UI acessível** para democratizar o acesso à informação segura.
+
+---
+
+## 🧠 Motivação
+
+> "Minha mãe, Nice, foi minha maior inspiração. Percebi que ela e outros idosos enfrentam dificuldades reais ao lidar com desinformação — e quis transformar essa dor em solução."
+
+- **Problema:** Idosos são mais propensos a acreditar e compartilhar fake news.
+- **Impacto:** Confusão, ansiedade, desinformação em saúde e golpes.
+- **Objetivo:** Criar um chatbot acessível, amigável e funcional para combater esse cenário.
+
+---
+
+## 👩‍🦳 Persona: Ana
+
+> 68 anos | Viúva | Costureira aposentada | Usuária básica de celular  
+Ana se informa pela TV e WhatsApp, mas tem dificuldade em validar notícias. Ela precisa de uma ferramenta simples, confiável e acolhedora — como o Nice Chatbot.
+
+---
+
+## ✨ Funcionalidades do Chatbot
+
+✅ Recebe perguntas/notícias via texto  
+✅ Analisa veracidade e alerta sobre sinais suspeitos  
+✅ Sugere fontes confiáveis (ex: Boatos.org, Lupa, Aos Fatos)  
+✅ Usa **linguagem simples, tom acolhedor e respostas curtas**  
+✅ Proporciona contexto sobre a origem da notícia
+
+---
+
+## 🧩 Processo de Criação
+
+### 🧪 Aula 04: Introdução ao Google AI Studio
+
+- Aprendizado sobre modelos generativos (Gemini)
+- Criação do **prompt inicial** com comportamento esperado:
+  - Linguagem simples
+  - Análise crítica com empatia
+  - Sugestão de fontes e contexto
+
+### 🛠️ Prompt Base Utilizado
+
+```text
 Você é um chatbot inteligente e amigável, especializado em ajudar pessoas com mais de 50 anos a identificar notícias falsas (fake news)...
 ➡️ Veja o prompt completo clicando aqui
 
@@ -127,7 +140,12 @@ Editar
 Você é um chatbot inteligente e amigável, especializado em ajudar pessoas com mais de 50 anos a identificar notícias falsas (fake news).
 Seja claro, use uma linguagem simples e evite termos técnicos...
 
-[... segue com todas as instruções em etapas 1 a 6...]
+1. Receba a pergunta com atenção.
+2. Verifique se há sinais de fake news ou conteúdo enganoso.
+3. Responda com empatia e clareza.
+4. Informe que a informação pode ser falsa (se aplicável).
+5. Indique fontes confiáveis (ex: Boatos.org, Lupa, Aos Fatos).
+6. Explique o contexto de forma didática, sem julgamentos.
 </details>
 🧠 Aprendizados e Conclusões
 ✅ Compreensão da API do Gemini e sua integração com Python
@@ -159,4 +177,3 @@ Metodologias de UX Writing
 Ao Google e Alura, pela oportunidade incrível
 
 E a você, que chegou até aqui 🙌
-
